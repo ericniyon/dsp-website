@@ -33,9 +33,9 @@
     <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
 
     
-  <script src="{{asset('frontend/assets/js/jquery-3.5.1.min.js')}}"></script>
-  <script src="{{asset('frontend/assets/js/plugins.js')}}"></script>
-  <script src="{{asset('frontend/assets/js/main.js')}}"></script>
+  <script src="{{secure_asset('frontend/assets/js/jquery-3.5.1.min.js')}}"></script>
+  <script src="{{secure_asset('frontend/assets/js/plugins.js')}}"></script>
+  <script src="{{secure_asset('frontend/assets/js/main.js')}}"></script>
 </body>
 
 </html>
