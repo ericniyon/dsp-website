@@ -12,8 +12,8 @@
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700;800;900&family=Roboto:wght@400;700&display=swap">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css">
-  <link rel="stylesheet" href="{{asset('frontend/assets/css/libraries.css')}}">
-  <link rel="stylesheet" href="{{asset('frontend/assets/css/style.css')}}">
+  <link rel="stylesheet" href="{{secure_asset('frontend/assets/css/libraries.css')}}">
+  <link rel="stylesheet" href="{{secure_asset('frontend/assets/css/style.css')}}">
 </head>
 
 <body>
