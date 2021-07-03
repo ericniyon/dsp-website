@@ -60,9 +60,7 @@
                   <li class="nav__item">
                     <a href="team" class="nav__item-link">Leadership Team</a>
                   </li><!-- /.nav-item -->
-                  <li class="nav__item">
-                    <a href="awards" class="nav__item-link">Award & Recognition</a>
-                  </li><!-- /.nav-item -->
+                  
                   <li class="nav__item">
                     <a href="pricing" class="nav__item-link">Pricing & Plans</a>
                   </li><!-- /.nav-item -->

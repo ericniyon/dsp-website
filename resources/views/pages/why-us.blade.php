@@ -145,169 +145,18 @@
     <!-- =========================== 
       portfolio layout 2
     ============================= -->
-    <section class="portfolio-layout2 portfolio-layout2-carousel">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-            <div class="heading mb-50">
-              <h2 class="heading__subtitle color-body">Latest Case Studies</h2>
-              <h3 class="heading__title">Success Stories</h3>
-            </div><!-- /heading -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <div class="slick-carousel"
-              data-slick='{"slidesToShow": 3, "slidesToScroll": 3, "arrows": false, "dots": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
-              <!-- portfolio item #1 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/1.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">Financial’s Need For
-                      Strategic Advisor</a></h4>
-                  <p class="portfolio-item__desc">We delivered solutions at every step, and moved seamlessly into a more
-                    proactive role as a strategic advisor, providing support and guidance across all IT topics.</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/1.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-              <!-- portfolio item #2 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/2.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">24x7 System Monitoring
-                      and Alert Response</a></h4>
-                  <p class="portfolio-item__desc">This single, unified platform integrates all operational phases of
-                    selling and activation of their wireless services and devices, and serves as the backbone .</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/2.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-              <!-- portfolio item #3 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/3.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">Nonprofit Organization
-                      Utilized Security</a></h4>
-                  <p class="portfolio-item__desc">Servers going down on a weekly basis had become the organization’s
-                    “normal.” We came on board with the objective of stabilizing the environment,</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/3.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-              <!-- portfolio item #4 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/4.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">Powerful IT Upgrade Aligns
-                      With Your Objectives</a></h4>
-                  <p class="portfolio-item__desc">They needed a robust management solution to organize archive critical
-                    documents for client cases, and wanted to determine solutions at every step.</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/4.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-              <!-- portfolio item #5 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/5.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">The Best IT Practices in
-                      Cloud and Security</a></h4>
-                  <p class="portfolio-item__desc">A standardized set of practices, we produce an extensive report
-                    recommendations, and health ratings for each technolog phases of selling .</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/5.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-              <!-- portfolio item #6 -->
-              <div class="portfolio-item">
-                <div class="portfolio-item__icon">
-                  <img src="{{asset('frontend/assets/images/icons/6.png')}}" alt="icon">
-                </div><!-- /.portfolio-item__icon -->
-                <div class="portfolio-item__content">
-                  <h4 class="portfolio-item__title"><a href="#">Helping Companies With
-                      Healthcare Inustry</a></h4>
-                  <p class="portfolio-item__desc">The client was not satisfied with the level of responsiveness and the
-                    lack of support provided by their previous service with the objective of stabilizing.</p>
-                  <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.portfolio-content -->
-                <div class="portfolio-item__img">
-                  <a href="case-studies-single.html"><img src="{{asset('frontend/assets/images/portfolio/modern/6.jpg')}}"
-                      alt="portfolio img"></a>
-                </div><!-- /.portfolio-img -->
-              </div><!-- /.portfolio-item -->
-            </div><!-- /.carousel -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-        <div class="row stats-text">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-2">
-            <div class="row">
-              <div class="stats-text__item col d-flex align-items-center">
-                <span class="divider divider-sm divider-secondary"></span>
-                <span class="color-secondary">20,000</span>
-                <span>Objective Resource</span>
-              </div><!-- /.stats-text__item -->
-              <div class="stats-text__item col d-flex align-items-center">
-                <span class="divider divider-sm divider-secondary"></span>
-                <span class="color-secondary">99.9%</span>
-                <span>Customer Satisfaction</span>
-              </div><!-- /.stats-text__item -->
-            </div><!-- /.row -->
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.portfolio layout 2 -->
-
+ 
     <!-- ========================= 
       Testimonials layout 1
       =========================  -->
     <section class="testimonials testimonials-layout1 testimonials-has-top-img text-center">
+          
+
       <div class="bg-img"><img src="{{asset('frontend/assets/images/backgrounds/4.jpg')}}" alt="backgrounds"></div>
-      <img src="{{asset('frontend/assets/images/testimonials/testimonials-group.png')}}" alt="testimonials" class="testimonials-top-img">
+      
       <div class="container">
+      {{-- <h1 class="heading__title">Testimonials</h1> --}}
+
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12">
             <div class="heading">
@@ -370,6 +219,7 @@
                   </div><!-- /.testimonial-meta -->
                 </div><!-- /. testimonial-item -->
               </div>
+    
               <div class="slider-nav">
                 <div class="testimonial-item__thumb">
                   <img src="{{asset('frontend/assets/images/testimonials/thumbs/1.png')}}" alt="author thumb">
@@ -396,43 +246,5 @@
    <!-- =====================
            Clients
     ======================== -->
-    <section class="clients border-top pt-50 pb-50">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <div class="slick-carousel"
-              data-slick='{"slidesToShow": 6, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 4}}, {"breakpoint": 767, "settings": {"slidesToShow": 3}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/1.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/1.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/2.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/2.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/3.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/3.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/4.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/4.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/5.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/5.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/6.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/6.png')}}" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="{{asset('frontend/assets/images/clients/7.png')}}" alt="client">
-                <img src="{{asset('frontend/assets/images/clients/7.png')}}" alt="client">
-              </div><!-- /.client -->
-            </div><!-- /.carousel -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.clients -->
+
 @endsection
