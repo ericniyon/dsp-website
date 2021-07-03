@@ -8,7 +8,7 @@
                 <h6 class="footer-widget__title">Quick Contact</h6>
                 <ul class="contact-list list-unstyled mb-0">
                   <li><a href="tel:00123968574">+ (250) 700-1212-12</a></li>
-                  <li><a href="mailto:Mintech@7oroof.com">dsp@gmail.com</a></li>
+                  <li><a href="">dsp@gmail.com</a></li>
                 </ul>
               </div><!-- /.contact-info -->
                 <ul class="social-icons list-unstyled mb-0">

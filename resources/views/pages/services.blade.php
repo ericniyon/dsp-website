@@ -275,7 +275,7 @@
                   <div class="bg-img"><img src="{{asset('frontend/assets/images/banners/6.jpg')}}" alt="background"></div>
                   <div class="heading heading-layout2 heading-light">
                     <h3 class="heading__title mb-30">Perfect Solutions For Your Business!</h3>
-                    <p class="heading__desc mb-30">Mintech has been helping organizations throughout the World to manage
+                    <p class="heading__desc mb-30">DSP has been helping organizations throughout the World to manage
                       their
                       IT with our unique approach to technology management and consultancy solutions. </p>
                     <ul class="list-items list-items-light list-unstyled mb-40">

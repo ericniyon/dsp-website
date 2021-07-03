@@ -269,7 +269,7 @@
               </h3>
             </div><!-- /heading -->
             <div class="about__Text">
-              <p>Mintech has been helping organizations throughout the World to manage their IT with our unique approach
+              <p>We has been helping organizations throughout the World to manage their IT with our unique approach
                 to technology management and consultancy solutions. </p>
               <p>As one of the world's largest ITService Providers, our deep pool of over 130 certified engineers and IT
                 support staff are ready to help.</p>
@@ -423,7 +423,7 @@
                 
                 <p class="client__quote">“We never knew the importance of IT help desk ticketing software until we got
                   one, and got the
-                  right one. We chose Mintech Service Desk Plus and it has never disappointed us.”
+                  right one. We chose DSP Service Desk Plus and it has never disappointed us.”
                 </p>
                 <div>
                   <span class="client__signature">Martin Qube,</span>

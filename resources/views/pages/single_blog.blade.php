@@ -6,7 +6,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" content="Mintech  IT Solutions &  Services Template">
+  <meta name="description" content="DSP  IT Solutions &  Services Template">
   <link href="assets/images/favicon/favicon.png" rel="icon">
   <title>HS.G</title>
 
@@ -193,7 +193,7 @@
                 <h6 class="footer-widget__title">Quick Contact</h6>
                 <ul class="contact-list list-unstyled mb-0">
                   <li><a href="tel:00123968574">+ (250) 700-1212-12</a></li>
-                  <li><a href="mailto:Mintech@7oroof.com">dsp@gmail.com</a></li>
+                  <li><a href="mailto:DSP@">dsp@gmail.com</a></li>
                 </ul>
               </div><!-- /.contact-info -->
                 <ul class="social-icons list-unstyled mb-0">

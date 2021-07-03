@@ -51,7 +51,7 @@
               </h3>
             </div><!-- /heading -->
             <div class="about__Text">
-              <p>Mintech has been helping organizations throughout the World to manage their IT with our unique approach
+              <p>We has been helping organizations throughout the World to manage their IT with our unique approach
                 to technology management and consultancy solutions. </p>
               <p>As one of the world's largest ITService Providers, our deep pool of over 130 certified engineers and IT
                 support staff are ready to help.</p>

@@ -6,7 +6,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" content="Mintech  IT Solutions &  Services Template">
+  <meta name="description" content="DSP  IT Solutions &  Services Template">
   
   <title>DSP</title>
 
@@ -49,11 +49,17 @@
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-6">
                   <div class="form-group">
-                    <label for="contact-name">Name (required)</label>
-                    <input type="text" class="form-control" placeholder="Name" id="contact-name" name="contact-name"
+                    <label for="contact-name">First Name (required)</label>
+                    <input type="text" class="form-control" placeholder="First Name" id="contact-name" name="contact-name"
                       required>
                   </div>
                 </div><!-- /.col-lg-6 -->
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                  <div class="form-group">
+                    <label for="contact-website">Last Name (optional)</label>
+                    <input type="text" class="form-control" placeholder="Last Name (optional)" id="contact-website"
+                      name="contact-website">
+                  </div>
                 <div class="col-sm-6 col-md-6 col-lg-6">
                   <div class="form-group">
                     <label for="contact-email">Email (required)</label>
@@ -68,12 +74,7 @@
                       required>
                   </div>
                 </div><!-- /.col-lg-6 -->
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                  <div class="form-group">
-                    <label for="contact-website">Website (optional)</label>
-                    <input type="text" class="form-control" placeholder="Website (optional)" id="contact-website"
-                      name="contact-website">
-                  </div>
+                
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-12">
                   <div class="form-group mb-20">
@@ -97,14 +98,14 @@
               <div class="contact-block">
                 <h5 class="contact-block__title">Our Location</h5>
                 <ul class="contact-block__list list-unstyled">
-                  <li>2307 Beverley Rd Brooklyn, New York 11226 United States.</li>
+                  <li>KG 28 Av Kigali Rwanda</li>
                 </ul>
               </div><!-- /.contact-panel__info__block -->
               <div class="contact-block">
                 <h5 class="contact-block__title">Quick Contact</h5>
                 <ul class="contact-block__list list-unstyled">
-                  <li><a href="mailto:Mintech@7oroof.com"></a>Email: Mintech@7oroof.com</li>
-                  <li><a href="mailto:Mintech@7oroof.com"></a>Support: Mintech@7oroof.com</li>
+                  <li><a href="mailto:DSP@7oroof.com"></a>Email: dsp@gmail.com</li>
+                  <li><a href="mailto:DSP@7oroof.com"></a>Support: dsp@gmail.com</li>
                 </ul>
               </div><!-- /.contact-panel__info__block -->
               <div class="contact-block">
@@ -146,7 +147,7 @@
                 <h6 class="footer-widget__title">Quick Contact</h6>
                 <ul class="contact-list list-unstyled mb-0">
                   <li><a href="tel:00123968574">+ (250) 700-1212-12</a></li>
-                  <li><a href="mailto:Mintech@7oroof.com">dsp@gmail.com</a></li>
+                  <li><a href="mailto:DSP@7oroof.com">dsp@gmail.com</a></li>
                 </ul>
               </div><!-- /.contact-info -->
                 <ul class="social-icons list-unstyled mb-0">
