@@ -29,3 +29,12 @@ Route::get('/pricing', function(){
 Route::get('/why-us', function(){
     return view('pages.why-us');
 });
+Route::get('/services', function(){
+    return view('pages.services');
+});
+Route::get('/blog', function(){
+    return view('pages.blog');
+});
+Route::get('/singleblog', function(){
+    return view('pages.single_blog');
+});

@@ -1,4 +1,4 @@
-  <header class="header header-transparent">
+  <header class="header header-light">
       <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container">
           <a class="navbar-brand" href="/" style="font-size: 5em; color: #fff; font-family: Times New Roman, Times, serif">

@@ -5,7 +5,7 @@
             <nav class="nav nav-tabs justify-content-center">
               <a href="" class="nav__link active">Services</a>
               <a href="team" class="nav__link">Team</a>
-              <a href="team" class="nav__link">Testimonials</a>
+              
               <a href="awards" class="nav__link">Awards & Recognition</a>
               <a href="pricing" class="nav__link">Pricing & Plans</a>
               <a href="faqs" class="nav__link">Help & FAQs</a>

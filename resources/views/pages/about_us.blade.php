@@ -349,100 +349,19 @@
         </div> <!-- /.row -->
       </div><!-- /.container -->
     </section>
-    <!-- =========================
-      Awards
-      =========================== -->
-    <section class="awards pt-20">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-5">
-            <div class="heading-layout2">
-              <h3 class="heading__title mb-50">Our awards and recognitions</h3>
-            </div>
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-        <div class="row awards-wrapper">
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <!-- fancybox item #1 -->
-            <div class="fancybox-item">
-              <div class="fancybox-item__icon__img">
-                <img src="{{asset('frontend/assets/images/awards/icons/1.png')}}" alt="icon">
-              </div><!-- /.fancybox-item__icon__img -->
-              <div class="fancybox-item__content">
-                <h4 class="fancybox-item__title">CSS Design Award</h4>
-                <p class="fancybox-item__desc">A web design & development award platform for digital folk, UI/UX peeps
-                  and inspiring leaders of the web.
-                </p>
-              </div><!-- /.fancybox-content -->
-            </div><!-- /.fancybox-item -->
-          </div><!-- /.col-lg-3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <!-- fancybox item #2 -->
-            <div class="fancybox-item">
-              <span class="pinned-ribbon"></span>
-              <div class="fancybox-item__icon__img">
-                <img src="{{asset('frontend/assets/images/awards/icons/2.png')}}" alt="icon">
-              </div><!-- /.fancybox-item__icon__img -->
-              <div class="fancybox-item__content">
-                <h4 class="fancybox-item__title">W3 Design Award</h4>
-                <p class="fancybox-item__desc">Awards celebrates digital by honoring outstanding Websites, Web
-                  Marketing, Video, Sites, Apps & Social content.
-                </p>
-              </div><!-- /.fancybox-content -->
-            </div><!-- /.fancybox-item -->
-          </div><!-- /.col-lg-3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <!-- fancybox item #3 -->
-            <div class="fancybox-item">
-              <div class="fancybox-item__icon__img">
-                <img src="{{asset('frontend/assets/images/awards/icons/3.png')}}" alt="icon">
-              </div><!-- /.fancybox-item__icon__img -->
-              <div class="fancybox-item__content">
-                <h4 class="fancybox-item__title">The FWA Award</h4>
-                <p class="fancybox-item__desc">Showcasing innovation every day since 2000, our mission is to showcase
-                  cutting edge creativity, regardless
-                </p>
-              </div><!-- /.fancybox-content -->
-            </div><!-- /.fancybox-item -->
-          </div><!-- /.col-lg-3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <!-- fancybox item #4 -->
-            <div class="fancybox-item">
-              <div class="fancybox-item__icon__img">
-                <img src="{{asset('frontend/assets/images/awards/icons/4.png')}}" alt="icon">
-              </div><!-- /.fancybox-item__icon__img -->
-              <div class="fancybox-item__content">
-                <h4 class="fancybox-item__title">WWW Awards</h4>
-                <p class="fancybox-item__desc">The awards that recognize the talent and effort of the best web
-                  designers, developers and agencies in the world.
-                </p>
-              </div><!-- /.fancybox-content -->
-            </div><!-- /.fancybox-item -->
-          </div><!-- /.col-lg-3 -->
-        </div><!-- /.row -->
-        <div class="row align-items-center">
-          <div class="col-sm-12 col-md-12 col-lg-5">
-            <p class="fz-16 my-4">Trusted by the world's best organizations, for 15 years and running, it has been
-              delivering
-              smiles to hundreds of IT advisors, developers, users, and business owners.
-            </p>
-          </div><!-- /.col-lg-5 -->
-          <div class="col-sm-12 col-md-12 col-lg-7 d-flex justify-content-end">
-            <a href="#" class="btn btn__primary btn__link">
-              <span>Explore All Awards</span><i class="icon-arrow-right icon-outlined"></i>
-            </a>
-          </div><!-- /.col-lg-7 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Awards -->
-
+   
     <!-- ========================= 
       Testimonials layout 1
       =========================  -->
+     
     <section class="testimonials testimonials-layout1 testimonials-has-top-img text-center">
+          
+
       <div class="bg-img"><img src="{{asset('frontend/assets/images/backgrounds/4.jpg')}}" alt="backgrounds"></div>
       
       <div class="container">
+      {{-- <h1 class="heading__title">Testimonials</h1> --}}
+
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12">
             <div class="heading">
@@ -505,6 +424,7 @@
                   </div><!-- /.testimonial-meta -->
                 </div><!-- /. testimonial-item -->
               </div>
+    
               <div class="slider-nav">
                 <div class="testimonial-item__thumb">
                   <img src="{{asset('frontend/assets/images/testimonials/thumbs/1.png')}}" alt="author thumb">
@@ -533,6 +453,8 @@
     ======================== -->
     <section class="clients border-top pt-50 pb-50">
       <div class="container">
+      <h1 class="heading__title text-center">Partners</h1>
+
         <div class="row align-items-center">
           <div class="col-sm-12 col-md-12 col-lg-12">
             <div class="slick-carousel"
@@ -578,107 +500,92 @@
     <!-- ======================
       Blog Grid
     ========================= -->
-    <section class="blog-grid pb-50">
+     <!-- =========================
+      Awards
+      =========================== -->
+    <section class="awards pt-20">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-40">
-              <h2 class="heading__subtitle">Recent Articles</h2>
-              <h3 class="heading__title">Resource Library</h3>
-            </div><!-- /.heading -->
+          <div class="col-sm-12 col-md-12 col-lg-5">
+            <div class="heading-layout2">
+              <h3 class="heading__title mb-50">Our Mission and actions</h3>
+            </div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
-        <div class="row">
-          <!-- Blog Item #1 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src="{{asset('frontend/assets/images/blog/grid/1.jpg')}}" alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Consulting</a><a href="#">Sales</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">May 13, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">Five Ways to Develop a World Class Sales Operations
-                    Function</a>
-                </h4>
-                <p class="post-item__desc">Outsourcing IT infrastructure is a concept that has been around for a while.
-                  Characterized in terms of technicians and engineers, workstations and servers, the idea of outsourcing
-                  your basic IT needs...
+        <div class="row awards-wrapper">
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <!-- fancybox item #1 -->
+            <div class="fancybox-item">
+              <div class="fancybox-item__icon__img">
+                <img src="{{asset('frontend/assets/images/awards/icons/1.png')}}" alt="icon">
+              </div><!-- /.fancybox-item__icon__img -->
+              <div class="fancybox-item__content">
+                <h4 class="fancybox-item__title">CSS Design Award</h4>
+                <p class="fancybox-item__desc">A web design & development award platform for digital folk, UI/UX peeps
+                  and inspiring leaders of the web.
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #2 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src="{{asset('frontend/assets/images/blog/grid/2.jpg')}}" alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Tech</a><a href="#">Communications</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">April 17, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">Succession Risks That Threaten Your Leadership Strategy</a>
-                </h4>
-                <p class="post-item__desc">Today’s organizations need a quality bench of leaders to drive business
-                  outcomes and satisfy employees, customers and investors who now demand more transparency and
-                  accountability...
+              </div><!-- /.fancybox-content -->
+            </div><!-- /.fancybox-item -->
+          </div><!-- /.col-lg-3 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <!-- fancybox item #2 -->
+            <div class="fancybox-item">
+              <span class="pinned-ribbon"></span>
+              <div class="fancybox-item__icon__img">
+                <img src="{{asset('frontend/assets/images/awards/icons/2.png')}}" alt="icon">
+              </div><!-- /.fancybox-item__icon__img -->
+              <div class="fancybox-item__content">
+                <h4 class="fancybox-item__title"> Design </h4>
+                <p class="fancybox-item__desc">Awards celebrates digital by honoring outstanding Websites, Web
+                  Marketing, Video, Sites, Apps & Social content.
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #3 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src="{{asset('frontend/assets/images/blog/grid/3.jpg')}}" alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Digital Business</a><a href="#">Cloud</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">March 20, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">What Do Employee Engagement Surveys Tell You About
-                    Employee?</a>
-                </h4>
-                <p class="post-item__desc">Outsourcing IT infrastructure is a concept that has been around for a while.
-                  Characterized in terms of technicians and engineers, workstations and servers, the idea of outsourcing
-                  your basic IT needs...
+              </div><!-- /.fancybox-content -->
+            </div><!-- /.fancybox-item -->
+          </div><!-- /.col-lg-3 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <!-- fancybox item #3 -->
+            <div class="fancybox-item">
+              <div class="fancybox-item__icon__img">
+                <img src="{{asset('frontend/assets/images/awards/icons/3.png')}}" alt="icon">
+              </div><!-- /.fancybox-item__icon__img -->
+              <div class="fancybox-item__content">
+                <h4 class="fancybox-item__title">The FWA Award</h4>
+                <p class="fancybox-item__desc">Showcasing innovation every day since 2000, our mission is to showcase
+                  cutting edge creativity, regardless
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
+              </div><!-- /.fancybox-content -->
+            </div><!-- /.fancybox-item -->
+          </div><!-- /.col-lg-3 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <!-- fancybox item #4 -->
+            <div class="fancybox-item">
+              <div class="fancybox-item__icon__img">
+                <img src="{{asset('frontend/assets/images/awards/icons/4.png')}}" alt="icon">
+              </div><!-- /.fancybox-item__icon__img -->
+              <div class="fancybox-item__content">
+                <h4 class="fancybox-item__title">WWW Awards</h4>
+                <p class="fancybox-item__desc">The awards that recognize the talent and effort of the best web
+                  designers, developers and agencies in the world.
+                </p>
+              </div><!-- /.fancybox-content -->
+            </div><!-- /.fancybox-item -->
+          </div><!-- /.col-lg-3 -->
+        </div><!-- /.row -->
+        <div class="row align-items-center">
+          <div class="col-sm-12 col-md-12 col-lg-5">
+            <p class="fz-16 my-4">Trusted by the world's best organizations, for 15 years and running, it has been
+              delivering
+              smiles to hundreds of IT advisors, developers, users, and business owners.
+            </p>
+          </div><!-- /.col-lg-5 -->
+          <div class="col-sm-12 col-md-12 col-lg-7 d-flex justify-content-end">
+            <a href="#" class="btn btn__primary btn__link">
+              <span>Explore All Awards</span><i class="icon-arrow-right icon-outlined"></i>
+            </a>
+          </div><!-- /.col-lg-7 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-    </section><!-- /.blog Grid -->
-
+    </section><!-- /.Awards -->
 
     <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
 
